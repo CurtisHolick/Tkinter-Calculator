@@ -1,5 +1,5 @@
 # Tkinter-Calculator
-A basic calculator I made to learn how to use the Python Tkinter GUI package | January 2018
+A basic calculator I made to learn how to use the Python Tkinter GUI package, January 2018
 
 This can be run through the console with python, or double clicked
 
